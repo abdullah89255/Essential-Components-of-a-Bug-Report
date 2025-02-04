@@ -1,0 +1,1 @@
+# Essential-Components-of-a-Bug-Report
